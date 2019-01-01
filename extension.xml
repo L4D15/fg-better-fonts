@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.0">
+    <properties>
+        <name>Better Fonts</name>
+        <version>1.0</version>
+        <author>Ladislao Lainez</author>
+        <description>Increase font size and font type for a better reading experience.</description>
+    </properties>
+
+    <announcement text="Better Fonts by Ladislao Lainez \r\nSource Code: https://github.com/L4D15/fg-better-fonts" icon="diehard" font="chatfont"/> 
+
+    <base>
+        <icon name="github" file="graphics/logos/github.png" />
+    </base>
+</root>
