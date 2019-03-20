@@ -5,15 +5,15 @@
     <!-- Reference -->
 
     <font name="reference-section">
-        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto" size="24" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="24" />
         <color value="3B2C21" />
     </font>
     <font name="reference-chapter">
-        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto" size="22" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="22" />
         <color value="3B2C21" />
     </font>
     <font name="reference-title">
-        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto" size="20" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="20" />
         <color value="323232" />
     </font>
     <font name="reference-subtitle">
@@ -21,73 +21,73 @@
         <color value="323232" />
     </font>
     <font name="reference-header">
-        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="18" />
         <color value="FFFFFF" />
     </font>
     
         <!-- Formatted text fields -->
     <font name="reference-h">
-        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto" size="22" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="22" />
         <color value="660000" />
     </font>
     <font name="reference-r">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#323232" />
     </font>
     <font name="reference-i">
-        <ttf file="graphics/fonts/Roboto-Italic.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Italic.ttf" name="Lato" size="18" />
         <color value="#323232" />
     </font>
     <font name="reference-b">
-        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="18" />
         <color value="#323232" />
     </font>
     <font name="reference-bi">
-        <ttf file="graphics/fonts/Roboto-BoldItalic.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-BoldItalic.ttf" name="Lato" size="18" />
         <color value="#323232" />
     </font>
     <font name="reference-b-large">
-        <ttf file="graphics/fonts/Roboto-ExtraBold.ttf" name="Roboto" size="20" />
+        <ttf file="graphics/fonts/Lato-ExtraBold.ttf" name="Lato" size="20" />
         <color value="#323232" />
     </font>
 
     <!-- Chat fonts - REQUIRED -->
     <font name="chatfont">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#261A12" />
     </font>
     <font name="emotefont">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#880000" />
     </font>
     <font name="narratorfont">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#261A12" />
     </font>
     <font name="systemfont">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#660066" />
     </font>
     <font name="msgfont">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#660066" />
     </font>
     <font name="oocfont">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#005500" />
     </font>
     
     <!-- Chat fonts -->
     <font name="chatnpcfont">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#000066" />
     </font>
     <font name="chatgmfont">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#323232" />
     </font>
     <font name="whisperfont">
-        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="18" />
         <color value="#660066" />
     </font>
     
@@ -97,7 +97,7 @@
         <color value="#323232" />
     </font>
     <font name="sheettext">
-        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto" size="18" />
+        <ttf file="graphics/fonts/Lato-Regular.ttf" name="Lato" size="18" />
         <color value="#323232" />
     </font>
 
