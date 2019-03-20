@@ -5,15 +5,15 @@
     <!-- Reference -->
 
     <font name="reference-section">
-        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="24" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lat Bold" size="24" />
         <color value="3B2C21" />
     </font>
     <font name="reference-chapter">
-        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="22" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato Bold" size="22" />
         <color value="3B2C21" />
     </font>
     <font name="reference-title">
-        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="20" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato Bold" size="20" />
         <color value="323232" />
     </font>
     <font name="reference-subtitle">
@@ -21,13 +21,13 @@
         <color value="323232" />
     </font>
     <font name="reference-header">
-        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="18" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato Bold" size="18" />
         <color value="FFFFFF" />
     </font>
     
         <!-- Formatted text fields -->
     <font name="reference-h">
-        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="22" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato Bold" size="22" />
         <color value="660000" />
     </font>
     <font name="reference-r">
@@ -35,19 +35,19 @@
         <color value="#323232" />
     </font>
     <font name="reference-i">
-        <ttf file="graphics/fonts/Lato-Italic.ttf" name="Lato" size="18" />
+        <ttf file="graphics/fonts/Lato-Italic.ttf" name="Lato Italic" size="18" />
         <color value="#323232" />
     </font>
     <font name="reference-b">
-        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="18" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato Bold" size="18" />
         <color value="#323232" />
     </font>
     <font name="reference-bi">
-        <ttf file="graphics/fonts/Lato-BoldItalic.ttf" name="Lato" size="18" />
+        <ttf file="graphics/fonts/Lato-BoldItalic.ttf" name="Lato Bold Italic" size="18" />
         <color value="#323232" />
     </font>
     <font name="reference-b-large">
-        <ttf file="graphics/fonts/Lato-ExtraBold.ttf" name="Lato" size="20" />
+        <ttf file="graphics/fonts/Lato-Black.ttf" name="Lato Black" size="20" />
         <color value="#323232" />
     </font>
 
@@ -87,7 +87,7 @@
         <color value="#323232" />
     </font>
     <font name="whisperfont">
-        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato" size="18" />
+        <ttf file="graphics/fonts/Lato-Bold.ttf" name="Lato Bold" size="18" />
         <color value="#660066" />
     </font>
     
