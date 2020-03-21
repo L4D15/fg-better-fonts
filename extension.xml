@@ -2,7 +2,7 @@
 <root version="3.0">
     <properties>
         <name>Better Fonts</name>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
         <author>Ladislao Lainez</author>
         <description>Increase font size and font type for a better reading experience.</description>
     </properties>
