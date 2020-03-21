@@ -18,3 +18,9 @@ The extensions folders is usually located at `%USER_FOLDER%/AppData/Roaming/Fant
 # Customizing
 
 This extensions expects the theme to have a bright background below the text, so there could be some problems with some dark themes. The text color can be changed by modifying the `value` property for each entry in the `graphics/graphics_fonts.xml`.
+
+# Changelog
+
+## 1.1.0
+
+- Changed fonts to LibreBaskerville and Montserrat.
