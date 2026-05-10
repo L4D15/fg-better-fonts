@@ -5,100 +5,78 @@
     <!-- Reference -->
 
     <font name="reference-section">
-        <ttf file="graphics/fonts/Signika-Bold.ttf" name="Signika Bold" size="28" />
-        <color value="#3B2C21" />
+        <ttf file="graphics/fonts/PTSans-Bold.ttf" name="PT Sans Bold" size="24" />
     </font>
     <font name="reference-chapter">
-        <ttf file="graphics/fonts/Signika-Bold.ttf" name="Signika Bold" size="24" />
-        <color value="#3B2C21" />
+        <ttf file="graphics/fonts/PTSans-Bold.ttf" name="PT Sans Bold" size="20" />
     </font>
     <font name="reference-title">
-        <ttf file="graphics/fonts/Signika-Bold.ttf" name="Signika Bold" size="22" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/PTSans-Bold.ttf" name="PT Sans Bold" size="18" />
     </font>
     <font name="reference-subtitle">
-        <ttf file="graphics/fonts/Montserrat-Bold.ttf" name="Montserrat Bold" size="20" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/PTSans-Bold.ttf" name="PT Sans Bold" size="16" />
     </font>
     <font name="reference-header">
-        <ttf file="graphics/fonts/Signika-Bold.ttf" name="Signika Bold" size="20" />
-        <color value="#FFFFFF" />
+        <ttf file="graphics/fonts/PTSans-Bold.ttf" name="PT Sans Bold" size="16" />
     </font>
     
         <!-- Formatted text fields -->
     <font name="reference-h">
-        <ttf file="graphics/fonts/Montserrat-Bold.ttf" name="Montserrat Bold" size="28" />
-        <color value="660000" />
+        <ttf file="graphics/fonts/PTSans-Bold.ttf" name="PT Sans Bold" size="24" />
     </font>
     <font name="reference-r">
-        <ttf file="graphics/fonts/Signika-Regular.ttf" name="Signika" size="20" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto Regular" size="18" />
     </font>
     <font name="reference-i">
-        <ttf file="graphics/fonts/Signika-Italic.ttf" name="Signika Italic" size="20" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/Roboto-Italic.ttf" name="Roboto Italic" size="18" />
     </font>
     <font name="reference-b">
-        <ttf file="graphics/fonts/Signika-Bold.ttf" name="Signika Bold" size="20" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto Bold" size="18" />
     </font>
     <font name="reference-bi">
-        <ttf file="graphics/fonts/Signika-Italic.ttf" name="Signika Italic" size="20" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/Roboto-BoldItalic.ttf" name="Roboto Bold Italic" size="18" />
     </font>
     <font name="reference-b-large">
-        <ttf file="graphics/fonts/Montserrat-Bold.ttf" name="Montserrat Bold" size="22" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto Bold" size="18" />
     </font>
 
     <!-- Chat fonts - REQUIRED -->
     <font name="chatfont">
-        <ttf file="graphics/fonts/Signika-Regular.ttf" name="Signika" size="20" />
-        <color value="#261A12" />
+        <ttf file="graphics/fonts/PTSans-Regular-PF2.ttf" name="PT Sans" size="18" />
     </font>
     <font name="emotefont">
-        <ttf file="graphics/fonts/OpenSans-Regular.ttf" name="Open Sans" size="20" />
-        <color value="#880000" />
+        <ttf file="graphics/fonts/PTSans-Regular-PF2.ttf" name="PT Sans" size="18" />
     </font>
     <font name="narratorfont">
-        <ttf file="graphics/fonts/Signika-Regular.ttf" name="Signika" size="20" />
-        <color value="#261A12" />
+        <ttf file="graphics/fonts/PTSans-Regular-PF2.ttf" name="PT Sans" size="18" />
     </font>
     <font name="systemfont">
-        <ttf file="graphics/fonts/OpenSans-Regular.ttf" name="Open Sans" size="20" />
-        <color value="#660066" />
+        <ttf file="graphics/fonts/PTSans-Regular-PF2.ttf" name="PT Sans" size="18" />
     </font>
     <font name="msgfont">
-        <ttf file="graphics/fonts/OpenSans-Regular.ttf" name="OpenSans" size="20" />
-        <color value="#660066" />
+        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto Regular" size="18" />
     </font>
     <font name="oocfont">
-        <ttf file="graphics/fonts/OpenSans-Regular.ttf" name="OpenSans" size="20" />
-        <color value="#005500" />
+        <ttf file="graphics/fonts/Roboto-Regular.ttf" name="Roboto Regular" size="18" />
     </font>
     
     <!-- Chat fonts -->
     <font name="chatnpcfont">
-        <ttf file="graphics/fonts/Signika-Regular.ttf" name="Signika" size="20" />
-        <color value="#000066" />
+        <ttf file="graphics/fonts/PTSans-Regular-PF2.ttf" name="PT Sans" size="16" />
     </font>
     <font name="chatgmfont">
-        <ttf file="graphics/fonts/Signika-Regular.ttf" name="Signika" size="20" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/PTSans-Regular-PF2.ttf" name="PT Sans" size="16" />
     </font>
     <font name="whisperfont">
-        <ttf file="graphics/fonts/OpenSans-Bold.ttf" name="Open Sans Bold" size="20" />
-        <color value="#660066" />
+        <ttf file="graphics/fonts/Roboto-Bold.ttf" name="Roboto Bold" size="16" />
     </font>
     
     <!-- Standard text fields -->
     <font name="sheetlabel">
-        <ttf file="graphics/fonts/Signika-Bold.ttf" name="Signika Bold" size="20" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/PTSans-Bold-PF2.ttf" name="PT Sans Bold" size="18" />
     </font>
     <font name="sheettext">
-        <ttf file="graphics/fonts/Signika-Regular.ttf" name="Signika" size="20" />
-        <color value="#323232" />
+        <ttf file="graphics/fonts/PTSans-Regular-PF2.ttf" name="PT Sans" size="18" />
     </font>
 
     </root>
